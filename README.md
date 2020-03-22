@@ -7,8 +7,8 @@
   - 运行方法：
     - 1 controller.MainController 为主类
     - 2 在主类中使用service.ThreadManager#start(List<String> printValues, String file) 方法文件打印方法；参数printValues为打印的内容队列（分先后顺序），file为指定的文件路径；
-      - ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200322221330436.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTg4MjU1,size_16,color_FFFFFF,t_70)
+      - ![在这里插入图片描述](https://github.com/DotGeng/multi-thread-print/blob/master/src/main/resources/pic/20200322221330436.png?raw=true)
     - 运行结果：
-      - ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200322221427623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTg4MjU1,size_16,color_FFFFFF,t_70)
+      - ![在这里插入图片描述](https://github.com/DotGeng/multi-thread-print/blob/master/src/main/resources/pic/20200322221330437.png?raw=true)
     
     
